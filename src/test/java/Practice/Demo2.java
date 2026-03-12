@@ -6,8 +6,7 @@ public class Demo2 {
 		System.out.println("Practicing pull operation");
 		System.out.println("Through branches");
 		System.out.println("Pull Operation to Framework Directory");
-		System.out.println("Git conflict in ATE directory");
-
+		System.out.println("Git Conflict is achieved");
 	}
 
 }
